@@ -1,0 +1,335 @@
+.layer p {
+    position: relative;
+}
+
+.layer p::after {
+    content: "";
+    position: absolute;
+    transform: translateX(-50%);
+    animation-name: typing;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+ 
+@keyframes typing {
+    1% {
+        content: "I AM |"
+    }
+
+    2% {
+        content: "I AM L|"
+    }
+
+    3% {
+        content: "I AM La|"
+    }
+
+    4% {
+        content: "I AM Lar|"
+    }
+
+    5% {
+        content: "I AM Larr|"
+    }
+
+    6% {
+        content: "I AM Larry|"
+    }
+
+    7% {
+        content: "I AM Larry |"
+    }
+
+    8% {
+        content: "I AM Larry D|"
+    }
+
+    9% {
+        content: "I AM Larry Da|"
+    }
+
+    10% {
+        content: "I AM Larry Dan|"
+    }
+
+    11% {
+        content: "I AM Larry Dani|"
+    }
+
+    12% {
+        content: "I AM Larry Daniel|"
+    }
+
+    13% {
+        content: "I AM Larry Daniels|"
+    }
+
+    15% {
+        content: "I AM Larry Daniels|"
+    }
+
+    17% {
+        content: "I AM Larry Daniels|"
+    }
+
+    19% {
+        content: "I AM Larry Daniels|"
+    }
+
+    21% {
+        content: "I AM Larry Daniels|"
+    }
+
+    23% {
+        content: "I AM Larry Daniels|"
+    }
+
+    25% {
+        content: "I AM Larry Daniels|"
+    }
+
+    26% {
+        content: "I AM Larry Daniel|"
+    }
+
+    27% {
+        content: "I AM Larry Danie|"
+    }
+
+    28% {
+        content: "I AM Larry Dani|"
+    }
+
+    29% {
+        content: "I AM Larry Dan|"
+    }
+
+    30% {
+        content: "I AM Larry Da|"
+    }
+
+    31% {
+        content: "I AM Larry D|"
+    }
+
+    32% {
+        content: "I AM Larry |"
+    }
+
+    33% {
+        content: "I AM Larry|"
+    }
+
+    34% {
+        content: "I AM Larr|"
+    }
+
+    35% {
+        content: "I AM Lar|"
+    }
+
+    36% {
+        content: "I AM La|"
+    }
+
+    37% {
+        content: "I AM L|"
+    }
+
+    38% {
+        content: "I AM |"
+    }
+
+    39% {
+        content: "I AM D|"
+    }
+
+    40% {
+        content: "I AM De|"
+    }
+
+    41% {
+        content: "I AM Des|"
+    }
+
+    42% {
+        content: "I AM Desi|"
+    }
+
+    43% {
+        content: "I AM Desig|"
+    }
+
+    44% {
+        content: "I AM Design|"
+    }
+
+    45% {
+        content: "I AM Designe|"
+    }
+
+    46% {
+        content: "I AM Designer|"
+    }
+
+    48% {
+        content: "I AM Designer|"
+    }
+
+    50% {
+        content: "I AM Designer|"
+    }
+
+    52% {
+        content: "I AM Designer|"
+    }
+
+    54% {
+        content: "I AM Designer|"
+    }
+
+    56% {
+        content: "I AM Designer|"
+    }
+
+    58% {
+        content: "I AM Designer|"
+    }
+
+    59% {
+        content: "I AM Designe|"
+    }
+
+    60% {
+        content: "I AM Design|"
+    }
+
+    61% {
+        content: "I AM Desig|"
+    }
+
+    62% {
+        content: "I AM Desi|"
+    }
+
+    63% {
+        content: "I AM Des|"
+    }
+
+    64% {
+        content: "I AM De|"
+    }
+
+    65% {
+        content: "I AM D|"
+    }
+
+    66% {
+        content: "I AM |"
+    }
+    
+    67% {
+        content: "I AM D|"
+    }
+
+    68% {
+        content: "I AM De|"
+    }
+
+    69% {
+        content: "I AM Dev|"
+    }
+
+    70% {
+        content: "I AM Deve|"
+    }
+
+    71% {
+        content: "I AM Devel|"
+    }
+
+    72% {
+        content: "I AM Develo|"
+    }
+
+    73% {
+        content: "I AM Develop|"
+    }
+
+    74% {
+        content: "I AM Develope|"
+    }
+
+    75% {
+        content: "I AM Developer|"
+    }
+
+    77% {
+        content: "I AM Developer|"
+    }
+
+    79% {
+        content: "I AM Developer|"
+    }
+
+    81% {
+        content: "I AM Developer|"
+    }
+
+    83% {
+        content: "I AM Developer|"
+    }
+
+    85% {
+        content: "I AM Developer|"
+    }
+
+    87% {
+        content: "I AM Developer|"
+    }
+
+    88% {
+        content: "I AM Develope|"
+    }
+
+    89% {
+        content: "I AM Develop|"
+    }
+
+    90% {
+        content: "I AM Develo|"
+    }
+
+    91% {
+        content: "I AM Devel|"
+    }
+
+    92% {
+        content: "I AM Deve|"
+    }
+
+    93% {
+        content: "I AM Dev|"
+    }
+
+    94% {
+        content: "I AM De|"
+    }
+
+    95% {
+        content: "I AM D|"
+    }
+
+    96% {
+        content: "I AM |"
+    }
+
+    98% {
+        content: "I AM "
+    }
+
+    100% {
+        content: "I AM |"
+    }
+
+}
